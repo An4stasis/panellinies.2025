@@ -7,7 +7,6 @@ By being able to solve this, means that you have a clear understanding of arrays
 and have also developed your "algorithming" thinking at an intermidiate level.
 This exercise focuses more on thinking of how to find a solution to a certain question rather than looking for Java syntaxes.
 That's why I suggest you to solve it in whatever language you want and not Java necessarily.
-
 ---
 
 ## 📄 Exercise Prompt (translated from Greek)
