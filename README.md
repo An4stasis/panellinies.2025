@@ -32,7 +32,7 @@ c) For each student, read their answers to all questions and store them in a 2D 
 
 ### D3.
 
-* For each student, calculate their total score using the function `SCORE` described in part D5. Store the total score in the array `grades[100]`.
+* For each student, calculate their total score using the function/method `SCORE` described in part D5. Store the total score in the array `grades[100]`.
   **\[4 points]**
 
 ### D4.
@@ -44,7 +44,7 @@ c) For each student, read their answers to all questions and store them in a 2D 
 
 ### D5.
 
-* Implement the function `score` which:
+* Implement the function/method `score` which:
 
   * Takes as parameters:
 
