@@ -55,7 +55,7 @@ c) For each student, read their answers to all questions and store them in a 2D 
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 ```bash
 javac Main.java
